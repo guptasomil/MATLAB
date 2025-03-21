@@ -1,2 +1,2 @@
 # MATLAB
-Contains my MATLAB codes, courses and certificates
+Contains my MATLAB projects, courses and certificates
